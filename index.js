@@ -9,7 +9,7 @@ function solveRect(l,b) {
     }
     else {
 	    console.log("The area of the rectangle is " + rect.area(l,b));
-	    // console.log("The perimeter of the rectangle is " + rect.perimeter(l,b));
+	    console.log("The perimeter of the rectangle is " + rect.perimeter(l,b));
     }
 }
 
